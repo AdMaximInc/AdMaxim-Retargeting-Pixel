@@ -2,5 +2,5 @@ name: "AdMaxim Retargeting Pixel"
 homepage: "http://www.admaxim.com/"
 documentation: "https://docs.google.com/document/d/1rKtvqtRz04eJV5Qia0drcQi2sOI3AXsMtJpQtLf80B4/edit?usp=sharing"
 versions:
-  - sha: 4bd497c1aa0dc3d9544d96ae24a93d695f21e2fc
-    changeNotes: Initial release 12
+  - sha: f74a1ef68a97ced2f9851c440cb7aaf145e588bd
+    changeNotes: Initial release
